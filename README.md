@@ -20,6 +20,7 @@ I am a student at Faculty of Organization and Informatics in Varaždin, I have a
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=092E20)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?flat&logo=react&logoColor=61DAFB)\
