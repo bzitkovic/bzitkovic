@@ -9,9 +9,9 @@ I am a student at Faculty of Organization and Informatics in Varaždin, I have a
 
 ### Connect with me:
 
-[<img align="left" alt="bzitkovic.github.io" width="40px" src="https://www.svgrepo.com/show/259645/web-search.svg" />][website]
-[<img align="left" alt="bzitkovic-linkedin | LinkedIn" width="40px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
-[<img align="left" alt="bzitkovic-email | Email" width="40px" src="https://www.svgrepo.com/show/19548/email.svg" />][email]
+[<img align="left" target="_blank" alt="bzitkovic.github.io" width="40px" src="https://www.svgrepo.com/show/259645/web-search.svg" />][website]
+[<img align="left" target="_blank" alt="bzitkovic-linkedin | LinkedIn" width="40px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
+[<img align="left" target="_blank" alt="bzitkovic-email | Email" width="40px" src="https://www.svgrepo.com/show/19548/email.svg" />][email]
 
 <br>
 <br>
